@@ -1,0 +1,11 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-google-genai
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+langfuse
+pytest
